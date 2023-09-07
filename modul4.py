@@ -44,7 +44,7 @@ elif 18.5<=bmi<=24.9:
 elif 25<=bmi<=29.9:
     print("Du är övervikt, kanske borde äta lite mindre donken\n")
 elif bmi>30:
-    print("Du är fetma, borde kanske delta i ramadan eller nått\n")
+    print("Du är mycket överviktig, borde kanske delta i ramadan eller nått\n")
 print("Räkna arean av en cirkel med 3 decimaler!")
 while True:
     try:
